@@ -5,5 +5,6 @@ idk
 ## Pronouns
 she/her
 ## Languages
--> Python\n
+-> Python
+
 -> Learning C++
