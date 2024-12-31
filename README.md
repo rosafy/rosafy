@@ -1,9 +1,9 @@
-## Hi, I'm Emma
+# Hi, I'm Emma
 
-# Who am I?
+## Who am I?
 idk
-# Pronouns
+## Pronouns
 she/her
-# Languages
--> Python
+## Languages
+-> Python\n
 -> Learning C++
