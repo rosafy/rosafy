@@ -7,4 +7,4 @@ she/her
 ## Languages
 -> Python
 
--> Learning C++
+-> Learning C#
