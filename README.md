@@ -7,7 +7,7 @@ she/her
 ## Languages
 -> Python
 
--> Trying to learn a lower level language, but not decided on one yet
+-> Learning Rust
 ## IDE
 -> VSCodium
 ## OS and Desktop
