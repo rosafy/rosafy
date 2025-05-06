@@ -8,6 +8,8 @@ she/her
 -> Python
 
 -> Learning Rust
+
+-> Basic knowledge of a bunch of other languages
 ## IDE
 -> VSCodium
 ## OS and Desktop
